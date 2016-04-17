@@ -1,0 +1,287 @@
+fileFormatVersion: 2
+guid: 8ae036665620244ee9a971121b07480b
+timeCreated: 1460386995
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: uccelletto_0
+    21300002: uccelletto_1
+    21300004: uccelletto_2
+    21300006: uccelletto_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 240
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: uccelletto_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -144}
+        - {x: 93, y: -145}
+        - {x: 87, y: -149}
+        - {x: 86, y: -151}
+        - {x: 86, y: -154}
+        - {x: 88, y: -155}
+        - {x: 95, y: -155}
+        - {x: 100, y: -152}
+        - {x: 101, y: -149}
+        - {x: 101, y: -145}
+      - - {x: 148, y: -102}
+        - {x: 163, y: -84}
+        - {x: 174, y: -41}
+        - {x: 184, y: 12}
+        - {x: 184, y: 36}
+        - {x: 182, y: 43}
+        - {x: 161, y: 107}
+        - {x: 139, y: 134}
+        - {x: 92, y: 154}
+        - {x: 24, y: 154}
+        - {x: 3, y: 143}
+        - {x: -67, y: 124}
+        - {x: -102, y: 107}
+        - {x: -125, y: 88}
+        - {x: -162, y: 71}
+        - {x: -184, y: 49}
+        - {x: -184, y: -13}
+        - {x: -165, y: -36}
+        - {x: -144, y: -74}
+        - {x: -127, y: -92}
+        - {x: -84, y: -113}
+        - {x: 8, y: -125}
+        - {x: 14, y: -137}
+        - {x: 47, y: -149}
+        - {x: 54, y: -149}
+        - {x: 58, y: -148}
+        - {x: 58, y: -144}
+        - {x: 46, y: -138}
+        - {x: 120, y: -123}
+      - - {x: 1, y: -116}
+        - {x: -2, y: -117}
+        - {x: -2, y: -124}
+        - {x: 0, y: -129}
+        - {x: 6, y: -129}
+        - {x: 6, y: -116}
+    - name: uccelletto_1
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 500
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -144}
+        - {x: 93, y: -145}
+        - {x: 87, y: -149}
+        - {x: 86, y: -151}
+        - {x: 86, y: -154}
+        - {x: 88, y: -155}
+        - {x: 95, y: -155}
+        - {x: 100, y: -152}
+        - {x: 101, y: -149}
+        - {x: 101, y: -145}
+      - - {x: 148, y: -102}
+        - {x: 163, y: -84}
+        - {x: 174, y: -41}
+        - {x: 184, y: 12}
+        - {x: 184, y: 36}
+        - {x: 182, y: 43}
+        - {x: 161, y: 107}
+        - {x: 139, y: 134}
+        - {x: 92, y: 154}
+        - {x: 24, y: 154}
+        - {x: 3, y: 143}
+        - {x: -67, y: 124}
+        - {x: -102, y: 107}
+        - {x: -132, y: 94}
+        - {x: -169, y: 57}
+        - {x: -184, y: 16}
+        - {x: -184, y: -38}
+        - {x: -141, y: -77}
+        - {x: -128, y: -95}
+        - {x: -85, y: -116}
+        - {x: 6, y: -115}
+        - {x: 8, y: -125}
+        - {x: 14, y: -137}
+        - {x: 47, y: -149}
+        - {x: 54, y: -149}
+        - {x: 58, y: -148}
+        - {x: 58, y: -144}
+        - {x: 46, y: -138}
+        - {x: 120, y: -123}
+      - - {x: 1, y: -116}
+        - {x: -2, y: -117}
+        - {x: -2, y: -124}
+        - {x: 0, y: -129}
+        - {x: 6, y: -129}
+        - {x: 6, y: -116}
+    - name: uccelletto_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -144}
+        - {x: 93, y: -145}
+        - {x: 87, y: -149}
+        - {x: 86, y: -151}
+        - {x: 86, y: -154}
+        - {x: 88, y: -155}
+        - {x: 95, y: -155}
+        - {x: 100, y: -152}
+        - {x: 101, y: -149}
+        - {x: 101, y: -145}
+      - - {x: 148, y: -102}
+        - {x: 163, y: -84}
+        - {x: 174, y: -41}
+        - {x: 184, y: 12}
+        - {x: 184, y: 36}
+        - {x: 182, y: 43}
+        - {x: 166, y: 60}
+        - {x: 166, y: 86}
+        - {x: 161, y: 107}
+        - {x: 139, y: 134}
+        - {x: 92, y: 154}
+        - {x: 24, y: 154}
+        - {x: 4, y: 141}
+        - {x: -63, y: 125}
+        - {x: -65, y: 123}
+        - {x: -103, y: 109}
+        - {x: -163, y: 51}
+        - {x: -184, y: -4}
+        - {x: -184, y: -76}
+        - {x: -165, y: -95}
+        - {x: -84, y: -113}
+        - {x: 6, y: -115}
+        - {x: 8, y: -125}
+        - {x: 14, y: -137}
+        - {x: 47, y: -149}
+        - {x: 54, y: -149}
+        - {x: 58, y: -148}
+        - {x: 58, y: -144}
+        - {x: 46, y: -138}
+        - {x: 120, y: -123}
+      - - {x: 1, y: -116}
+        - {x: -2, y: -117}
+        - {x: -2, y: -124}
+        - {x: 0, y: -129}
+        - {x: 6, y: -129}
+        - {x: 6, y: -116}
+    - name: uccelletto_3
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 500
+        height: 500
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 99, y: -144}
+        - {x: 93, y: -145}
+        - {x: 87, y: -149}
+        - {x: 86, y: -151}
+        - {x: 86, y: -154}
+        - {x: 88, y: -155}
+        - {x: 95, y: -155}
+        - {x: 100, y: -152}
+        - {x: 101, y: -149}
+        - {x: 101, y: -145}
+      - - {x: 148, y: -102}
+        - {x: 163, y: -84}
+        - {x: 174, y: -41}
+        - {x: 172, y: -1}
+        - {x: 184, y: 21}
+        - {x: 184, y: 36}
+        - {x: 182, y: 43}
+        - {x: 166, y: 60}
+        - {x: 166, y: 86}
+        - {x: 161, y: 107}
+        - {x: 139, y: 134}
+        - {x: 92, y: 154}
+        - {x: 24, y: 154}
+        - {x: 4, y: 141}
+        - {x: -63, y: 125}
+        - {x: -65, y: 123}
+        - {x: -105, y: 109}
+        - {x: -165, y: 47}
+        - {x: -183, y: -13}
+        - {x: -183, y: -76}
+        - {x: -164, y: -95}
+        - {x: -83, y: -113}
+        - {x: 6, y: -115}
+        - {x: 4, y: -131}
+        - {x: 35, y: -149}
+        - {x: 57, y: -149}
+        - {x: 58, y: -148}
+        - {x: 58, y: -144}
+        - {x: 46, y: -138}
+        - {x: 120, y: -123}
+      - - {x: 1, y: -116}
+        - {x: -2, y: -117}
+        - {x: -2, y: -124}
+        - {x: 0, y: -129}
+        - {x: 6, y: -129}
+        - {x: 6, y: -116}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
