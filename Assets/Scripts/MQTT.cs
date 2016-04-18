@@ -71,7 +71,7 @@ public class MQTT : MonoBehaviour {
 	public void Connect()
 	{
 		client = new MqttClient4Unity(brokerHostname, brokerPort, false, null);
-		string clientId = "PietroPC";
+		string clientId = "BuildYourGame";
 		client.Connect(clientId, userName, password);
 	}
 

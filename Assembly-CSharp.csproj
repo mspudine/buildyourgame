@@ -6,7 +6,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{F51C4EA7-3672-0A90-AEB4-94A27CFFC6B0}</ProjectGuid>
+    <ProjectGuid>{75A9F5BF-6426-5A24-A966-23338D876BD6}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -59,7 +59,7 @@
  <HintPath>/Applications/Unity/Unity.app/Contents/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="M2Mqtt">
- <HintPath>/Users/Pietro/Dropbox/DEVELOPMENT/Build Your Game (Unity & Microsoft)/Build Your Game - Unity Per Principianti/Assets/M2Mqtt.dll</HintPath>
+ <HintPath>/Volumes/Macintosh HD/Users/Pietro/Documents/LOCAL DEVELOPMENT/buildyourgameMSP/Assets/M2Mqtt.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
